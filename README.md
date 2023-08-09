@@ -1,2 +1,2 @@
 # Python
-SQL projects
+Python project
